@@ -1,7 +1,5 @@
 import java.util.Scanner;
-
 public class Tarifa {
-
 	public static void main(String[] args) {
 		int p = 0;
 		int m = 0;
@@ -16,9 +14,6 @@ public class Tarifa {
 			cm = scan.nextInt();
 			sum = sum + (p - cm);
 		}
-		
 		System.out.println(p + sum);
-
 	}
-
 }

@@ -14,7 +14,7 @@ public class Bijele {
 		for (i=0;i<6;i++){
 			System.out.print(a[i]-b[i]);
 		}
-		}
+	}
 		
 	}
 
